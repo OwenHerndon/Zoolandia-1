@@ -1,5 +1,5 @@
 project.lock.json
 project.json
-bin/
-obj/
-.vscode/
+bin/**
+obj/**
+.vscode/**
