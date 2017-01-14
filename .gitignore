@@ -1,2 +1,4 @@
 project.lock.json
 project.json
+/bin
+/obj
